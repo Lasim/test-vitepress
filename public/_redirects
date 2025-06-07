@@ -1,3 +1,3 @@
-/          /yolo/    301
-/yolo2     /yolo/    301
-/yolo2/*   /yolo/:splat    301
+/         /yolo/    301
+/yolo     /yolo/    301
+/yolo/*   /yolo/:splat    301
