@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "My Awesome Project",
-  description: "A VitePress Site 2",
+  description: "A VitePress Site 3",
   base: '/kaki/',
   cleanUrls: true,
   themeConfig: {
